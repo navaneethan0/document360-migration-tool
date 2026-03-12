@@ -59,6 +59,8 @@ To verify the migration independently using Postman:
    - `Content-Type`: `application/json`
 3. **Result**: A successful response returns `201 Created` or `200 OK` with `{"success": true}`.
 
+![Postman Verification Proof](postman_proof.png)
+
 ## Structural Mapping Table
 | Word Element | HTML Equivalent | Purpose |
 |--------------|-----------------|---------|
