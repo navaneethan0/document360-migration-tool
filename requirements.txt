@@ -1,0 +1,4 @@
+mammoth
+requests
+python-dotenv
+python-docx
